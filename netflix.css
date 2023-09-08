@@ -1,0 +1,353 @@
+body{
+    background-color: black;
+    width: 100%;
+}
+#background1{
+   margin-left: -150px;
+   margin-top: -410px;
+ 
+}
+#netflixlogo img{
+    position: absolute;
+    margin-left: 125px;
+    margin-top:-700px;
+    height: 130px;
+    width: 230px;
+}
+#buttonenglish button{
+    position: absolute;
+margin-top: -660px;
+margin-left: 1100px;
+height: 30px;
+width: 120px;
+background-color:transparent;
+
+border-color:white;
+font-weight: 200px;
+font-size: medium;
+color: white;
+border-radius: 5px;
+}
+#signin button{
+    position: absolute;
+margin-top: -660px;
+margin-left: 1250px;
+height: 40px;
+width: 90px;
+background-color:#C11119;
+border: none;
+border-color:#C11119);
+font-weight: 200px;
+font-size: medium;
+color: white;
+border-radius: 5px;
+font width: 20%;;
+}
+#signin button{}
+#enjoy h1{
+    color: rgb(255, 255, 255);
+    margin-top: -400px;
+margin-left: 240px;
+font-size: xxx-large;
+font-family: gra;
+}
+#jointoday{
+color:white;
+    font-weight: 800;
+    margin-top: -10px;
+    margin-left: 620px;
+    font-size: x-large;
+}
+#enteryouremail{
+    color:white;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-left: 420px;
+    font-size: x-large;
+}
+#emailsignup input{
+    height: 50px;
+width: 350px;
+background-color:transparent;
+border-color: white;
+border-radius: 5px;
+font-weight: 200px;
+font-size: medium;
+margin-top: 20px;
+margin-left: 450px;
+}
+#getstarted{
+    position: absolute;
+    margin-top: -54px; 
+margin-left: 820px;
+    height: 55px;
+    width: 150px;
+    background-color:#C11119;
+    border: none;
+    border-color:#C11119);
+    font-weight: 200px;
+    font-size: medium;
+    color: white;
+    border-radius: 5px;
+    font width: 20%;
+}
+#graybox{
+    background-color: #232323;
+    width: 1780px;
+    height: 20px;
+    margin-top: 160px; 
+    margin-left: -10px;
+}
+#blackbox1{
+height: 500px;
+}
+#enjoytv{
+    color: rgb(255, 255, 255);
+    margin-top: -350px;
+margin-left: 170px;
+font-size: x-large;  
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#enjoytv h2{
+    margin-top: -15px;
+margin-left: 1px;
+font-size: x-large;   
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#graybox2{
+    background-color: #232323;
+    width: 1780px;
+    height: 10px;
+    margin-top: 250px; 
+    margin-left: -10px;
+}
+#downloadshows{
+    color: rgb(255, 255, 255);
+    margin-top: 200px;
+margin-left: 750px;
+font-size: x-large;  
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#favourites{
+    color: rgb(255, 255, 255);
+    margin-top: -20px;
+margin-left: 750px;
+font-size: large;  
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+#graybox3{
+    background-color: #232323;
+    width: 1780px;
+    height: 10px;
+    margin-top: 200px; 
+    margin-left: -10px; 
+}
+#watcheverywhere{
+    color: white;
+    margin-top: 200px;
+    margin-left: 170px;
+    font-size: x-large;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+#graybox4{
+    background-color: #232323;
+    width: 1780px;
+    height: 10px;
+    margin-top: 200px; 
+    margin-left: -10px; 
+}
+#create{
+    color: rgb(255, 255, 255);
+    margin-top: 200px;
+margin-left: 750px;
+font-size: x-large;  
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#graybox5{
+    background-color: #232323;
+    width: 1780px;
+    height: 10px;
+    margin-top: 200px; 
+    margin-left: -10px; 
+}
+#frequently{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-align: center;
+    font-size: x-large;
+    margin-top: 50px;
+}
+#tv img{
+    position: absolute;
+margin-top: -2400px;
+margin-left: 750px;
+}
+#mobile{
+    margin-top: -2000px;
+    margin-left: 100px;
+}
+#watch img{
+    margin-top: 150px;
+    margin-left: 750px; 
+}
+#kids img{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+#wtn button{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 175px;
+    height: 100px;
+    width: 1120px;
+    text-align: left;
+    font-size: x-large;
+    background-color: #232323;
+    color: white;
+}
+#how button{
+    position: absolute;
+    margin-top: 970px;
+    margin-left: 175px;
+    height: 100px;
+    width:1120px ;
+    text-align: left;
+    font-size: x-large;
+    background-color: #232323;
+    color: white;
+}
+#watch button{
+    position: absolute;
+    margin-top: 1090px;
+    margin-left: 175px;
+    height: 100px;
+    width:1120px ;
+    text-align: left;
+    font-size: x-large;
+    background-color: #232323;
+    color: white;
+}
+#cancel button{
+    position: absolute;
+    margin-top: 1210px;
+    margin-left: 175px;
+    height: 100px;
+    width:1120px ;
+    text-align: left;
+    font-size: x-large;
+    background-color: #232323;
+    color: white;
+}
+#watchon button{
+    position: absolute;
+    margin-top:  1330px; 
+    margin-left: 175px;
+    height: 100px;
+    width:1120px ;
+    text-align: left;
+    font-size: x-large;
+    background-color: #232323;
+    color: white;
+}
+#kids button{
+    position: absolute;
+    margin-top: 1450px;
+    margin-left: 175px;
+    height: 100px;
+    width:1120px ;
+    text-align: left;
+    font-size: x-large;
+    background-color: #232323;
+    color: white;
+}
+#Ready h4{
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 350px;
+   font-weight: 800;
+    color: white;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#emailsignup2 input{
+          height: 50px;
+    width: 350px;
+    background-color:transparent;
+    border-color: white;
+    border-radius: 5px;
+    font-weight: 200px;
+    font-size: medium;
+    margin-top: 1650px;
+    margin-left: 450px;
+}
+#getstarted2{
+    position: absolute;
+    margin-top: -54px; 
+margin-left: 820px;
+    height: 55px;
+    width: 150px;
+    background-color:#C11119;
+    border: none;
+    border-color:#C11119);
+    font-weight: 200px;
+    font-size: medium;
+    color: white;
+    border-radius: 5px;
+    font width: 20%;
+}
+#graybox6{
+    background-color: #232323;
+    width: 1780px;
+    height: 10px;
+    margin-top: 65px; 
+    margin-left: -10px; 
+}
+#question h4{
+color: #B3B3B3;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 180px;
+margin-top: 80px;
+}
+#faq {
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 180px;
+margin-top: 80px;
+text-decoration: underline;
+}
+#helpcentre{
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 625px;
+margin-top: -180px;
+text-decoration: underline;
+}
+#account{
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 1010px;
+margin-top: -180px;
+text-decoration: underline;
+}
+#English2 button{
+    height: 30px;
+width: 120px;
+background-color:transparent;
+
+border-color:white;
+font-weight: 200px;
+font-size: medium;
+color: white;
+border-radius: 5px;
+margin-left: 175px;
+margin-top: 45px;
+}
+#netflixindia h5{
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 175px;
+margin-top: px;
+text-decoration: underline;
+}
