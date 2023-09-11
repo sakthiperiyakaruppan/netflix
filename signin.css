@@ -1,0 +1,171 @@
+body{
+    background-color: black;
+}
+#netflixlogo2 img{
+    position: absolute;
+    margin-left: -20px;
+    margin-top:-30px;
+    height: 130px;
+    width: 230px;
+}
+#background2 img{
+    height: 120%;
+    width: 120%;
+    background-color:rgba(0,56,0,25);
+    
+}
+#signinbox{
+    position: absolute;
+    height:90%;
+    width: 30%;
+    background-color: rgb(0, 0, 0);
+    margin-top: -950px;
+    margin-left: 520px;
+    border-radius: 5px;
+}
+#signin2{
+    color: white;
+    position: absolute;
+    margin-top: -880px;
+    margin-left: 590px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+#email2 input{
+    position: absolute;
+   height: 7vh;
+   width: 300px;
+   margin-top: -820px;
+   margin-left: 590px;
+   border-radius: 7px;
+   border: none;
+   background-color: #333333;
+   font-size: medium;
+}
+#password2 input{
+    position: absolute;
+   height: 7vh;
+   width: 300px;
+   margin-top: -750px;
+   margin-left: 590px;
+   border-radius: 7px;
+   border: none;
+   background-color: #333333;
+   font-size: medium;
+}
+#signup2 button{
+    position: absolute;
+    height: 7vh;
+    width: 300px;
+    margin-top: -650px;
+    margin-left: 590px;
+    border-radius: 7px;
+    border: none;
+    background-color: #E50914;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+}
+#rememberme h5{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#B3B3B3 ;
+   margin-top: -580px;
+   margin-left: 605px;
+   font-weight: lighter;
+}
+#needhelp h5{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #B3B3B3;
+    margin-left: 830px;
+    margin-top: -580px;
+    font-weight: lighter;
+}
+#newtonetflix h4{
+    position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: lighter;
+  margin-left: 600px;
+  margin-top: -525px;
+  color: #B3B3B3;
+}
+#signupnow{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    margin-left: 710px;
+    margin-top: -547px;
+    color: white;
+    font-weight: lighter;
+    cursor: pointer;
+}
+#captcha h5{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #B3B3B3;
+    margin-left: 600px;
+    margin-top: -490px;
+}
+#learnmore h5{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0071EB;
+    margin-left: 740px;
+    margin-top: -474px;
+}
+#downbox{
+    position: absolute;
+    width: 1800px;
+    height: 300px;
+    background-color: black;
+    margin-top: -245px;
+}
+#question2 h4{
+    position: absolute;
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -200px;
+    margin-left: 270px;
+
+}
+#faq2{
+    position: absolute;
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 270px ;
+    margin-top: -150px;
+}
+#helpcentre{
+    position: absolute;
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:550px;
+    margin-top: -158px;
+}
+#term{
+    position: absolute;
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:800px;
+    margin-top: -158px;
+}
+#privacy{
+    position: absolute;
+    color: #B3B3B3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:1000px;
+    margin-top: -158px;
+}
+#buttonenglish2 button{
+    position: absolute;
+    height: 20px;
+    border-color: white;
+    margin-left:270px;
+    margin-top: -40px;
+    height: 5vh;
+    width: 110px;
+    background-color: transparent;
+    color: white;
+
+}
